@@ -5,11 +5,6 @@
 </br><br/>
 </h3>
 
-<--<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
-[![Twitter: berachele425](https://img.shields.io/twitter/follow/berachele425?style=social)](https://twitter.com/berachele425)
--->
-<a href="https://twitter.com/adadkhaled?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @adadkhaled</a><script async 
-src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-[![Linkedin: berachele](https://img.shields.io/badge/-berachele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berachele/)](https://www.linkedin.com/in/berachele/)
-
-<a href="https://twitter.com/adadkhaled?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @adadkhaled</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
+[![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
+[![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
