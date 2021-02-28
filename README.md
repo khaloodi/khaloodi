@@ -13,10 +13,10 @@
 ```javascript
 let khaled = {
   pronouns: 'he' | 'him',
-  certification: 'Data Science and Machine Learning @ Lambda School', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist'
-  degrees: 'MS Business Analytics @ Lewis Uni.', 'BBA Economics Loyola Uni. Chicago' 
+  certification: 'Data Science and Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist'
+  degrees: 'MS Business Analytics', 'BBA Economics' 
   code: {
-    'frontend': ['HTML', 'CSS', 'LESS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Style-Components', 'Material UI'],
+    'frontend': ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
     'backend': ['NodeJS', 'Express', 'Jest'],
     'database': ['SQLite3', 'PostGresSQL'],
     'devops': ['GitHub Pages', 'Heroku', 'AWS', 'Firebase'],
