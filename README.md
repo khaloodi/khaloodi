@@ -35,5 +35,7 @@ let khaled = {
 - [YouTube U](https://youtube-u.netlify.com/)
 - [Data Science Blog](https://www.khaledadad.com)
 - [Capstone Project (Master's)](https://www.khaledadad.com/capstone)
+- [Snake Game](https://www.khaledadad.com/snakegame)
+- [Dice Game](https://www.khaledadad.com/dicegame)
 
 <em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
