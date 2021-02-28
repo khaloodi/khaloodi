@@ -26,5 +26,14 @@ let khaled = {
 ```
 ### Current Project(s)
 - [Phrase Hunter](https://www.khaledadad.com/treehouse/oop_game-v2/)
+- [Interactive Form](https://www.khaledadad.com/interactive-form/)
+- [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
+- [Color Picker](http://www.khaledadad.com/treehouse/a_random_quote_generator-v1/)
+
+### Previous Work
+- [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
+- [YouTube U](https://youtube-u.netlify.com/)
+- [Data Science Blog](https://www.khaledadad.com)
+- [Capstone Project (Master's)](https://www.khaledadad.com/capstone)
 
 <em><b>See my other projects! I love the designing aspect of code whether it be UI or Frontend, and Backend is a strong suit of mine that hones my organization skills.</b><img align='right' src="https://media.giphy.com/media/H1B6lS3N4zZ0fHmmXO/giphy.gif" width="175"></em>
