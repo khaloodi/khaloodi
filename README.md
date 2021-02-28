@@ -8,3 +8,5 @@
 <em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
 [![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
+
+### <img src="https://media.giphy.com/media/dfIQG68floQuY/giphy.gif" width="50"> A little more about me... 
