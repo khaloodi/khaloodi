@@ -10,3 +10,18 @@
 [![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
 
 ### <img src="https://media.giphy.com/media/dfIQG68floQuY/giphy.gif" width="100"> A little more about me... 
+```javascript
+let khaled = {
+  pronouns: 'he' | 'him',
+  certification: 'Data Science and Machine Learning @ Lambda School', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist'
+  code: {
+    'frontend': ['HTML', 'CSS', 'LESS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Style-Components', 'Material UI'],
+    'backend': ['NodeJS', 'Express', 'Jest'],
+    'database': ['SQLite3', 'PostGresSQL'],
+    'devops': ['GitHub Pages', 'Heroku', 'AWS', 'Firebase'],
+    'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Figma', 'DB-Designer', 'React libraries'],
+    }
+}
+```
+### Current Project(s)
+- [Phrase Hunter](https://www.khaledadad.com/treehouse/oop_game-v2/)
