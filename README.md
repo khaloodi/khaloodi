@@ -14,6 +14,7 @@
 let khaled = {
   pronouns: 'he' | 'him',
   certification: 'Data Science and Machine Learning @ Lambda School', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist'
+  degrees: 'MS Business Analytics @ Lewis Uni.', 'BBA Economics Loyola Uni. Chicago' 
   code: {
     'frontend': ['HTML', 'CSS', 'LESS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Style-Components', 'Material UI'],
     'backend': ['NodeJS', 'Express', 'Jest'],
