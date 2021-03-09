@@ -12,15 +12,14 @@
 ### <img src="https://media.giphy.com/media/dfIQG68floQuY/giphy.gif" width="100">  A little more about me... 
 ```javascript
 let khaled = {
-  pronouns: 'he' | 'him',
-  certification: 'Data Science & Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist'
-  degrees: 'MS Business Analytics', 'BBA Economics' 
+  certifications: 'Data Science & Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist',
+  degrees: 'MS Business Analytics', 'BBA Economics',
   code: {
-    'frontend': ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
-    'backend': ['NodeJS', 'Express', 'AWS', 'Firebase'],
-    'database': ['SQLite3', 'PostGreSQL'],
-    'devops': ['GitHub Pages', 'Heroku', 'Jest'],
-    'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Figma', 'DB-Designer', 'React libraries'],
+     frontend: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
+     backend: ['NodeJS', 'Express', 'AWS', 'Firebase'],
+     database: ['SQLite3', 'PostGreSQL'],
+     devops: ['GitHub Pages', 'Heroku', 'Jest'],
+     tools: ['GIT', 'GitHub', 'VSCode', 'Postman', 'Figma', 'DB-Designer', 'React libraries'],
     }
 }
 ```
