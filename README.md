@@ -1,7 +1,7 @@
 <h2> Hi, I'm Khaled Adad! <img src="https://media.giphy.com/media/keySJvblcwvZU0ssQ2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l4pLY044apZFSX5YY/giphy.gif" width="230">
 <h3>Graduated Data Science & Machine Learning @<a href="http://lambdaschool.com/">Lambda School </a><img src="https://media.giphy.com/media/W2XIJOMSFaXxgyNwKl/giphy.gif" width="40">
-<h3>Currently enrolled in Full Stack Web @<a href="http://teamtreehouse.com/">Team Treehouse </a><img src="https://media.giphy.com/media/W2XIJOMSFaXxgyNwKl/giphy.gif" width="40">
+<h3>Enrolled in Full Stack Web @<a href="http://teamtreehouse.com/">Team Treehouse </a><img src="https://media.giphy.com/media/W2XIJOMSFaXxgyNwKl/giphy.gif" width="40">
 </br><br/>
 </h3>
 
