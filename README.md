@@ -17,9 +17,9 @@ let khaled = {
   degrees: 'MS Business Analytics', 'BBA Economics' 
   code: {
     'frontend': ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
-    'backend': ['NodeJS', 'Express', 'Jest'],
+    'backend': ['NodeJS', 'Express', 'AWS', 'Firebase'],
     'database': ['SQLite3', 'PostGresSQL'],
-    'devops': ['GitHub Pages', 'Heroku', 'AWS', 'Firebase'],
+    'devops': ['GitHub Pages', 'Heroku', 'Jest'],
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Figma', 'DB-Designer', 'React libraries'],
     }
 }
