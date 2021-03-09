@@ -18,7 +18,7 @@ let khaled = {
   code: {
     'frontend': ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
     'backend': ['NodeJS', 'Express', 'AWS', 'Firebase'],
-    'database': ['SQLite3', 'PostGresSQL'],
+    'database': ['SQLite3', 'PostGreSQL'],
     'devops': ['GitHub Pages', 'Heroku', 'Jest'],
     'tools': ['GIT', 'GitHub', 'VSCode', 'Postman', 'Figma', 'DB-Designer', 'React libraries'],
     }
