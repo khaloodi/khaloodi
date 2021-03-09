@@ -13,7 +13,7 @@
 ```javascript
 let khaled = {
   pronouns: 'he' | 'him',
-  certification: 'Data Science and Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist'
+  certification: 'Data Science & Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist'
   degrees: 'MS Business Analytics', 'BBA Economics' 
   code: {
     'frontend': ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
