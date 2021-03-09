@@ -24,7 +24,7 @@ let khaled = {
     }
 }
 ```
-### Vanilla JS Project(s)
+### Vanilla JS 
 - [Phrase Hunter](https://www.khaledadad.com/treehouse/oop_game-v2/)
 - [Interactive Form](https://www.khaledadad.com/interactive-form/)
 - [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
