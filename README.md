@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/dfIQG68floQuY/giphy.gif" width="100">  A little more about me... 
 ```javascript
 let khaled = {
-  certifications: 'Data Science & Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Scpecialist',
+  certifications: 'Data Science & Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Specialist',
   degrees: 'MS Business Analytics', 'BBA Economics',
   code: {
      frontend: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
