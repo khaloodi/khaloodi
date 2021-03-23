@@ -29,7 +29,7 @@ let khaled = {
 - [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
 - [Color Picker](http://www.khaledadad.com/treehouse/a_random_quote_generator-v1/)
 
-### Random Projects
+### Previous Projects
 - [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
 - [YouTube U](https://youtube-u.netlify.com/)
 - [Data Science Blog](https://www.khaledadad.com)
