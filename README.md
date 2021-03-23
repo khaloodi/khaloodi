@@ -24,6 +24,7 @@ let khaled = {
 }
 ```
 ### Recent Builds
+- [Random User Generator](https://www.khaledadad.com/randomusers/)
 - [Phrase Hunter](https://www.khaledadad.com/phrasehunter/)
 - [Interactive Form](https://www.khaledadad.com/interactive-form/)
 - [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
