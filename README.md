@@ -1,29 +1,14 @@
 <h2> Hi, I'm Khaled Adad! <img src="https://media.giphy.com/media/keySJvblcwvZU0ssQ2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l4pLY044apZFSX5YY/giphy.gif" width="230">
 
-<h4>Enrolled in Full Stack Web Development @<a href="http://teamtreehouse.com/">Team Treehouse </a><img src="https://media.giphy.com/media/W2XIJOMSFaXxgyNwKl/giphy.gif" width="40"></h4>
-<h4>Graduated Data Science & Machine Learning @<a href="http://lambdaschool.com/">Lambda School </a><img src="https://media.giphy.com/media/W2XIJOMSFaXxgyNwKl/giphy.gif" width="40"></h4>
-</br><br/>
+<br/>
+<br/>
 
 
 <em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
 [![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
 
-### <img src="https://media.giphy.com/media/dfIQG68floQuY/giphy.gif" width="100">  A little more about me... 
-```javascript
-let khaled = {
-  certifications: 'Data Science & Machine Learning', 'AWS Cloud Practitioner', 'Tableau Desktop Specialist',
-  degrees: 'MS Business Analytics', 'BBA Economics',
-  code: {
-     frontend: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'ReactJS', 'Boostrap/Reactstrap', 'Material UI'],
-     backend: ['NodeJS', 'Express', 'AWS', 'Firebase'],
-     database: ['SQLite3', 'PostGreSQL'],
-     devops: ['GitHub Pages', 'Heroku', 'Jest'],
-     tools: ['GIT', 'GitHub', 'VSCode', 'Postman', 'Figma', 'DB-Designer', 'React libraries'],
-    }
-}
-```
 ### Recent Builds
 - [Random User Generator](https://www.khaledadad.com/randomusers/)
 - [Phrase Hunter](https://www.khaledadad.com/phrasehunter/)
