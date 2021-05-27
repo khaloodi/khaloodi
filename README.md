@@ -8,7 +8,7 @@
 [![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
 
 ### Recent Builds
-- [Node/Express Portfolio](https://github.com/khaloodi/static_portfolio)
+- [Node/Express Portfolio](https://ka-node-portfolio.herokuapp.com/)
 - [Random User Generator](https://www.khaledadad.com/randomusers/)
 - [Phrase Hunter](https://www.khaledadad.com/phrasehunter/)
 - [Interactive Form](https://www.khaledadad.com/interactive-form/)
