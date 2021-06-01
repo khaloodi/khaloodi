@@ -3,7 +3,7 @@
 
 <br/>
 
-**I'm a Full Stack Developer, who love to code!**
+**I'm a Full Stack Developer, who loves to code!**
 - 📚 I’m currently learning TypeScript, GraphQL, and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master React + MERN Stack. Contribute to Open Source projects.
