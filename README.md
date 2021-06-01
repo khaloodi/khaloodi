@@ -6,7 +6,7 @@
 - 👯  Looking to collaborate with other passionate developers.
 - 🥅  2021 Goals: Master React + MERN Stack. Contribute to Open Source projects.
 
-<em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
+<em><b>Let's connect! I love meeting new people and growing from others' feedback.</b></em>
 <br/>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
 [![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
