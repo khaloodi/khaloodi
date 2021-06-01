@@ -3,11 +3,10 @@
 
 <br/>
 
-## I'm a Full Stack Developer, who love to code! 
-
-- 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
+**I'm a Full Stack Developer, who love to code!**
+- 📚 I’m currently learning TypeScript, GraphQL, and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
+- 🥅 2021 Goals: Master React + MERN Stack. Contribute to Open Source projects.
 
 <em><b>Let's connect! I love meeting new people and growing from others' feedback and experiences.</b></em>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
