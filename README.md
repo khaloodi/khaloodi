@@ -22,7 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ### Recent Builds
-- [Node/Express Portfolio](https://ka-node-portfolio.herokuapp.com/) (Deployed on Heroku so give it a min)
+- [Node/Express Portfolio](https://ka-node-portfolio.herokuapp.com/) 
 - [Random User Generator](https://www.khaledadad.com/randomusers/)
 - [Phrase Hunter](https://www.khaledadad.com/phrasehunter/)
 - [Interactive Form](https://www.khaledadad.com/interactive-form/)
