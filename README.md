@@ -1,9 +1,7 @@
-<h2> Hi, I'm Khaled (Kuh-led)! <img src="https://media.giphy.com/media/keySJvblcwvZU0ssQ2/giphy.gif" width="50"></h2>
-<br/>
-
-**I'm a Full Stack Developer, who loves to code!**
+**Full Stack Developer who loves to code!**
 
 <em><b>Let's connect! I love meeting new people and growing from others' feedback.</b></em>
+<br/>
 <br/>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
 [![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
