@@ -1,6 +1,4 @@
-**Full Stack Developer who loves to code!**
-
-<em><b>Let's connect! I love meeting new people and growing from others' feedback.</b></em>
+<b>Let's connect! I love meeting new people and growing from others' feedback.</b>
 <br/>
 <br/>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
