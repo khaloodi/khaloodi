@@ -1,4 +1,4 @@
-<b>Let's connect! I love meeting new people and growing from others' feedback.</b>
+**Hi, I'm [Khaled](khaledadad.com) a passionate web developer from Chicago.**
 <br/>
 <br/>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
