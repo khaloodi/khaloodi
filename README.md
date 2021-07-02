@@ -21,5 +21,5 @@
 ### Previous Projects
 - [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
 - [YouTube U](https://youtube-u.netlify.com/)
-- [Data Science Blog](https://www.khaledadad.com)
+- [Blog](https://www.khaledadad.com)
 - [Stock Portfolio Analysis](https://www.khaledadad.com/capstone)
