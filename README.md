@@ -1,4 +1,4 @@
-**Hi, I'm [Khaled](https://www.khaledadad.com/) a passionate software developer from Chicago.** 
+**Hi, I'm [Khaled](https://www.khaledadad.com/), a passionate software developer from Chicago.** 
 <br/>
 <br/>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
