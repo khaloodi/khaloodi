@@ -10,7 +10,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-### Recent
+### React
+- [Gallery App](https://amazing-gallery-app.netlify.app)
 - [React Scoreboard ](https://khaled-react-scoreboard.netlify.app/)
 
 ### JavaScript
@@ -21,7 +22,7 @@
 - [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
 - [Color Picker](http://www.khaledadad.com/treehouse/a_random_quote_generator-v1/)
 
-### Previous
+### Python
 - [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
 - [YouTube U](https://youtube-u.netlify.com/)
 - [Blog](https://www.khaledadad.com)
