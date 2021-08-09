@@ -15,6 +15,7 @@
 - [Scoreboard ](https://khaled-react-scoreboard.netlify.app/)
 
 ### JavaScript
+- [Sequelize](https://github.com/khaloodi/node-SQL-ORM)
 - [Node + Express Portfolio](https://ka-node-portfolio.herokuapp.com/) 
 - [Random User Generator](https://www.khaledadad.com/randomusers/)
 - [Phrase Hunter](https://www.khaledadad.com/phrasehunter/) (OOP Game)
