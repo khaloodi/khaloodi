@@ -10,7 +10,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-### Full Stack JavaScript
+### Currently working on:
+- SQL Library Manager
+
+### Full Stack JavaScript:
 - [Gallery App](https://amazing-gallery-app.netlify.app)
 - [Node + Express Portfolio](https://ka-node-portfolio.herokuapp.com/) 
 - [Random User Generator](https://www.khaledadad.com/randomusers/)
@@ -19,7 +22,7 @@
 - [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
 - [Color Picker](http://www.khaledadad.com/treehouse/a_random_quote_generator-v1/)
 
-### Data Science (Python)
+### Data Science (Python):
 - [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
 - [YouTube U](https://youtube-u.netlify.com/)
 - [Blog](https://www.khaledadad.com)
