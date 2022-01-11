@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ### Currently working on:
-- SQL Library Manager
+- [SQL Library Manager](https://github.com/khaloodi/SQL-library-manager)
 
 ### Full Stack JavaScript:
 - [Gallery App](https://amazing-gallery-app.netlify.app)
