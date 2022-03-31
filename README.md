@@ -1,4 +1,4 @@
-**Hi, I'm [Khaled](https://www.khaledadad.com/), a passionate self-taught developer from Chicago.** 
+**Hi, I'm [Khaled](https://www.khaledadad.com/), a passionate self-taught developer.** 
 <br/>
 <br/>
 [![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
