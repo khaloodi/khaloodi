@@ -12,7 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ### Currently Working On:
-- [Nucamp Stuffs](https://github.com/khaloodi/nucamp_stuff)
+- [Nucamp Python](https://github.com/khaloodi/nucamp_stuff)
 
 
 ### Full Stack JavaScript:
