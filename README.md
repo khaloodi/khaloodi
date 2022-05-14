@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-### Currently Working On:
+### Python Web:
 - [Flask API](https://github.com/khaloodi/flask-REST-API)
 
 ### Full Stack JavaScript:
@@ -24,7 +24,7 @@
 - [Pagination](https://www.khaledadad.com/treehouse/data-pagination-and-filtering-v1/)
 - [Color Picker](http://www.khaledadad.com/treehouse/a_random_quote_generator-v1/)
 
-### Data Science (Python):
+### Data Science:
 - [Deforestation Dashboard](https://deforestationdashboard.netlify.com/)
 - [YouTube U](https://youtube-u.netlify.com/)
 - [Blog](https://www.khaledadad.com)
