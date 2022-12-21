@@ -15,7 +15,7 @@
 ### DevOps Projects:
 - [TBD](#)
 
-### Python Apps:
+### Full Stack Python:
 - [FastAPI](https://github.com/khaloodi/fastapi-practice)
 - [Flask API](https://github.com/khaloodi/flask-REST-API)
 
