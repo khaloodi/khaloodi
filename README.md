@@ -16,7 +16,7 @@
 - [VProfile](#)
 
 ### Full Stack Python:
-- [Gallery App (Django)](https://github.com/khaloodi/mysite)
+- [Gallery App](https://github.com/khaloodi/mysite) (Django Build)
 - [FastAPI](https://github.com/khaloodi/fastapi-practice)
 - [Flask API](https://github.com/khaloodi/flask-REST-API)
 
