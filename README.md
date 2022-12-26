@@ -6,7 +6,7 @@
 
 
 ### DevOps Builds:
-- Simple Java CI/CD(https://github.com/khaloodi/hello-world)
+- [Simple Java CI/CD](https://github.com/khaloodi/hello-world)
 
 ### Full Stack Python:
 - [Gallery App](https://github.com/khaloodi/mysite) (Django Build)
