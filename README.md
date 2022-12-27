@@ -4,6 +4,9 @@
 ### DevOps Builds:
 - [Simple Java CI/CD](https://github.com/khaloodi/hello-world)
 
+### Data Structures && Algorithms:
+- [Coding Problems/Solutions](https://github.com/khaloodi/py_prac)
+
 ### Full Stack Python:
 - [Gallery App](https://github.com/khaloodi/mysite) (Django Build)
 - [FastAPI](https://github.com/khaloodi/fastapi-practice)
