@@ -1,6 +1,19 @@
 **Hi, I'm [Khaled](https://www.khaledadad.com/), a passionate self-taught developer.** 
 <br/>
 
+### **Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<br/>
+
+[![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
+[![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
+
+
 ### DevOps Builds:
 - [Simple Java CI/CD](https://github.com/khaloodi/hello-world)
 
@@ -28,15 +41,3 @@
 - [YouTube U](https://youtube-u.netlify.com/)
 - [Blog](https://www.khaledadad.com)
 - [Stock Portfolio Analysis](https://www.khaledadad.com/capstone)
-
-### **Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<br/>
-
-[![Twitter: adadkhaled](https://img.shields.io/twitter/follow/adadkhaled?style=social)](https://twitter.com/adadkhaled)
-[![Linkedin: khaledadad](https://img.shields.io/badge/-khaledadad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledadad/)](https://www.linkedin.com/in/khaledadad/)
