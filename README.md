@@ -10,7 +10,6 @@
 
 <br/>
 
-
 ### Full Stack Python:
 - [Coding Problems/Solutions](https://github.com/khaloodi/py_prac)
 - [Gallery App](https://github.com/khaloodi/mysite) (Django Build)
